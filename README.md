@@ -21,7 +21,7 @@ This is a beginner-level machine learning project that models a pizza ordering s
 - Pandas
 - Scikit-learn
 - Matplotlib
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
